@@ -1,23 +1,23 @@
 # network-systems-lab
 Hands-on networking and Linux lab using Raspberry Pi, SSH, router configuration, MQTT and troubleshooting.
-The project focuses on configuring and troubleshooting a small network environment using Raspberry Pi, a router, SSH and MQTT messaging.
+This repository documents practical exercises in networking and Linux system administration using Raspberry Pi, SSH, router configuration, MQTT messaging and troubleshooting.
 
 ## Technologies and Topics
 
-- Raspberry Pi OS / Linux
-- SSH and SSH key authentication
-- TCP/IP networking
-- DHCP and local IP configuration
-- Router configuration
-- DDNS and connectivity testing
-- MQTT messaging with Mosquitto
-- Command-line tools
-- Message logging
-- Technical troubleshooting and documentation
+Raspberry Pi OS / Linux
+SSH and SSH key authentication
+TCP/IP networking
+DHCP and local IP configuration
+Router configuration
+DNS and connectivity testing
+MQTT messaging with Mosquitto
+Command-line tools
+Message logging
+Technical troubleshooting and documentation
 
 ## Practical Work
 
-During the project, I:
+During the practical exercises, I:
 
 - Configured and accessed a Raspberry Pi remotely using SSH
 - Generated and configured SSH keys for passwordless authentication
