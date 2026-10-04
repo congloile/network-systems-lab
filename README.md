@@ -4,6 +4,10 @@ Hands-on networking and Linux systems lab using Raspberry Pi, SSH, router config
 
 This repository documents selected practical exercises involving network configuration, Linux administration, remote access, MQTT communication and systematic troubleshooting.
 
+## Course Context
+
+Selected practical exercises from Hardware 1 networking and Linux system administration coursework at Metropolia University of Applied Sciences.
+
 ## Technologies and Topics
 
 - Raspberry Pi OS / Linux
@@ -85,6 +89,16 @@ I also tested MQTT communication with a Raspberry Pi Pico W and verified that re
 - [Raspberry Pi Pico W MQTT publish](screenshots/mqtt-pico-publish.png)
 - [MQTT messages received in MQTTX](screenshots/mqttx-received-messages.png)
 - [MQTT message logging](screenshots/mqtt-message-logging.png)
+## Selected Screenshots
+
+### Passwordless SSH login
+![Passwordless SSH login](screenshots/ssh-passwordless-login.png)
+
+### Raspberry Pi Pico W MQTT publish
+![Raspberry Pi Pico W MQTT publish](screenshots/mqtt-pico-publish.png)
+
+### MQTT message logging
+![MQTT message logging](screenshots/mqtt-message-logging.png)
 ## What I Learned
 This work helped me develop a more systematic approach to technical troubleshooting:
 
